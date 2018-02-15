@@ -1,0 +1,234 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>פנסיון</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Material Design Bootstrap</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link href="../MDB/css/bootstrap.min.css" rel="stylesheet" />    <!-- Bootstrap core CSS -->
+    <link href="../MDB/css/mdb.min.css" rel="stylesheet" />    <!-- Material Design Bootstrap -->
+    <!-- my style -->
+
+    <link href="../style/CarePetStyle.css" rel="stylesheet" />
+
+    <style>
+        #No_waiting, #I_dont_have_clients {
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+        .tada {
+            background-color: coral;
+            border-radius: 20px;
+        }
+        .nav {
+            display: -ms-flexbox;
+            display: flex;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            padding-left: 0;
+            margin-bottom: 0;
+            list-style: none;
+            /*background-color: coral;*/
+        }
+
+        ul a {
+            color: rgba(0,0,0,.2);
+            text-decoration: none;
+            /*cursor: pointer;*/
+        }
+
+        #listCustomer, #confirm_list {
+            height: 420px;
+            overflow: scroll;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #b30000;
+        }
+
+        ::-webkit-scrollbar {
+            color: Highlight
+        }
+
+        #confirm_list {
+            direction: rtl;
+            text-align: right;
+        }
+
+        h5 {
+            background-color: cornflowerblue;
+            border-radius: 10px;
+            text-align: center;
+            position: relative;
+            right: 0.5px;
+        }
+
+        body {
+            direction: rtl;
+            /*text-align: right;*/
+            height: 530px;
+        }
+
+     
+
+        .active i {
+            color: #0056b3;
+            /*#007bff*/
+        }
+        #goOutPension {
+            direction: ltr !important;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <!--..................................................................................................................-->
+    <div class="container">
+        <!--Grid row-->
+        <div id="myPage">
+
+            <!-- Nav tabs -->
+            <div class="row">
+
+                <div class="col-12" style="text-align:center">
+                    <div class="tabs-wrapper">
+                        <ul class="nav classic-tabs tabs-orange" role="tablist">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <li class="nav-item">
+                                <a class="nav-link waves-light active" id="client" data-toggle="tab" href="#Customerlist"onclick="location.reload(true); return false;" role="tab"><i class="fa fa-users fa-2x" aria-hidden="true"></i> <br> לקוחות</a>
+                            </li>&nbsp;&nbsp;&nbsp;&nbsp;                                                
+                            <li class="nav-item">
+                                <a class="nav-link waves-light" id="confirm" data-toggle="tab" href="#reservation" role="tab"><i class="fa fa-user-plus fa-2x" aria-hidden="true"></i><br> הזמנות</a>
+                            </li>
+                            <!--<li class="nav-item">
+                                <a class="nav-link waves-light" id="TasksList" data-toggle="tab" href="#Tasks" role="tab"><i class="fa fa-check-square-o fa-2x" aria-hidden="true"></i><br> משימות</a>
+                            </li>-->
+
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- Tab panels -->
+            <div class="tab-content card">
+
+                <!--Panel 1-->
+                <div class="tab-pane fade in show active" id="Customerlist" role="tabpanel">
+                    <div id="I_have_clients">
+                        <h4 style="text-align:center">הלקוחות שלי </h4>
+                        <br />
+                        <div id="listCustomer"></div>
+                    </div>
+                    
+                        <div class="animated tada" id="I_dont_have_clients" style="display:none;text-align:center;">
+                            <br />
+                            <h4> אין לך   </h4>
+                            <h4>  לקוחות  </h4>
+                            <br />
+                        </div>
+                    </div>
+                <!--/.Panel 1-->
+                <!--Panel 2-->
+                <div class="tab-pane fade" id="reservation" role="tabpanel">
+                    <div id="waiting"> 
+                        <br />
+                        <h4 style="text-align:center">הזמנות שעדין לא אושרו</h4>
+                        <br />
+                        <div class="panel-group" id="confirm_list">  </div>
+                        <br />
+                    </div>
+                    <div class="animated tada" id="No_waiting" style="display:none;text-align:center;">
+                        <br />
+                        <h4> אין לך כרגע  </h4>
+                        <h4>  לקוחות  חדשים </h4>
+                        <br />
+                    </div>
+                </div>
+                <!--/.Panel 2-->
+                <!--Panel 3-->
+                <div style="direction:rtl" class="tab-pane fade" id="Tasks" role="tabpanel">
+                    <br />
+                    <h4 style="text-align:center">אין משימות</h4>
+                    <br />
+                </div>
+
+            </div>
+
+        </div>
+
+        <!--///////////-->
+        <div  class="modal fade" id="goOutPension" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="top:120px">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+
+                    <div class="modal-body" style="font-size:22px">
+                        ? אתה בטוח שאתה רוצה להתנתק
+                    </div>
+                    <div class="modal-footer" style=" padding-right: 90px;font-size:30px">
+                        <button type="button" class="btn btn-outline-danger" data-dismiss="modal">ביטול</button>
+                        <button type="button" id="goOut" class="btn btn-outline-blue" data-dismiss="modal">צא</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <footer class="page-footer blue center-on-small-only pt-sm-5 animated flipInX ">
+
+            <div class="social-section text-center">
+                <!--<a href="feedback.html" class="icons-sm fb-ic"><i class="fa fa-cog fa-lg black-text mr-md-5"> </i></a>
+
+                &nbsp;&nbsp;  &nbsp;&nbsp;
+                  <a href="AboutUs.html">
+                    <img style="width:30px;height:22px;" src="../images/pic/propilAnimal.png" class="img-rounded" alt="פנסיון " id="picMap1">
+                </a>-->
+                &nbsp;&nbsp;  &nbsp;&nbsp;
+                <a href="#" data-toggle="modal" data-target="#goOutPension"> <span class="fa fa-sign-out black-text"></span></a>
+                &nbsp;&nbsp;  &nbsp;&nbsp;
+
+                <!--<a href="Profile.html">
+                    <i class="fa fa-user-circle  black-text mr-md-5" aria-hidden="true"></i>
+                </a>-->
+            </div>
+            <hr />
+
+            <div class="footer-copyright">
+                <div class="container-fluid">
+                    © 2017 MyPet: meir & nir
+
+                </div>
+            </div>
+
+
+        </footer>
+
+    </div>
+
+
+    <!--....................................................................................................................-->
+    <script src="../MDB/js/jquery-3.2.1.min.js"></script>    <!-- JQuery -->
+    <script src="../MDB/js/popper.min.js"></script>    <!-- Bootstrap tooltips -->
+    <script src="../MDB/js/bootstrap.min.js"></script>    <!-- Bootstrap core JavaScript -->
+    <script src="../MDB/js/mdb.min.js"></script>  <!-- MDB core JavaScript -->
+    <!-- my JavaScript -->
+    <script src="../Libraries/Globals.js"></script>
+    <script src="../cordova.js"></script>
+    <!-- for this page -->
+    <script src="../scripts/PensionPage.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>אתר מנהל</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link href="../MDB/css/bootstrap.min.css" rel="stylesheet" />    <!-- Bootstrap core CSS -->
+    <link href="../MDB/css/mdb.min.css" rel="stylesheet" />    <!-- Material Design Bootstrap -->
+    <!-- my style -->
+    <link href="../style/CarePetStyle.css" rel="stylesheet" />
+
+    <style>
+        body {
+            text-align: right;
+        }
+
+        .t_nav {
+            border-radius: 15px;
+            font-size: 20px;
+            font-family: Arial;
+            color: white;
+            padding: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row" style="background-color:darkblue;padding:10px;text-align:center">
+            <div class="col-2">
+                <img style="width:40px;height:40px;" src="../images/pic/logo.png" />
+            </div>
+            <div class="col-8 ">
+
+                <div class="row">
+                    <div class="col-3">
+                        <span  class="t_nav" id="add_b" style="background-color:coral;">Add</span>
+                    </div>
+                    <div class="col-3">
+                        <span class="t_nav" id="table_b">Tables</span>
+                    </div>
+                    <div class="col-3">
+                        <span class="t_nav" id="info_b">Statistics</span>
+                    </div>
+                    <div class="col-3">
+                        <span  class="t_nav"id="msg_b">Messages </span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-2">
+                <i class="fa fa-sign-out  t_nav" style="color:white;font-size:20px"></i>
+            </div>
+        </div>
+        <br />
+        <br />
+        <button type="button"id="m2" class="btn btn-cyan btn-lg">m2</button>
+        <button type="button" id="m3" class="btn btn-cyan btn-lg">m3</button>
+
+
+
+    </div>
+
+
+
+
+    <script src="../MDB/js/jquery-3.2.1.min.js"></script>    <!-- JQuery -->
+    <script src="../MDB/js/popper.min.js"></script>    <!-- Bootstrap tooltips -->
+    <script src="../MDB/js/bootstrap.min.js"></script>    <!-- Bootstrap core JavaScript -->
+    <script src="../MDB/js/mdb.min.js"></script>  <!-- MDB core JavaScript -->
+    <!-- my JavaScript -->
+    <script src="../Libraries/Globals.js"></script>
+    <script src="../cordova.js"></script>
+
+    <script>
+        //document.addEventListener('deviceready', onDeviceReady, false);
+
+        //function onDeviceReady() {
+        //    var mp3URL = getMediaURL("../sound/beep3.mp3");
+        //    var media = new Media(mp3URL, null, mediaError);
+        //    media.play();
+        //};
+
+
+        document.addEventListener('deviceready', onDeviceReady, false);
+        function onDeviceReady() {
+            url_1 = "/android_asset/www/sound/beep3.mp3";
+            url_3 = "/android_asset/www/sound/beep3.mp3";
+            playAudio(url_1)
+        }
+
+        function playAudio(url_1) {
+            var my_media = new Media(url_1, null, null);
+            my_media.play();
+        }
+
+        function playAudio(url_1) {
+            var my_media = new Media(url_1, null, null);
+            my_media.play();
+        }
+
+        $('#m2').click(function () {
+            var my_media = new Media(url_3, null, null);
+            my_media.play();
+        });
+        $('#m3').click(function () {
+            var my_media = new Media(url_3, null, null);
+            my_media.play();
+        });
+
+    </script>
+</body>
+
+</html>

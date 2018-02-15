@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html lang="he">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+       <!-- MDB -->
+    <script src="../MDB/js/jquery-3.2.1.min.js"></script>    <!-- JQuery -->
+    <script src="../MDB/js/popper.min.js"></script>    <!-- Bootstrap tooltips -->
+    <script src="../MDB/js/bootstrap.min.js"></script>    <!-- Bootstrap core JavaScript -->
+    <script src="../MDB/js/mdb.min.js"></script>  <!-- MDB core JavaScript -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="../MDB/css/bootstrap.min.css" rel="stylesheet" />    <!-- Bootstrap core CSS -->
+    <link href="../MDB/css/mdb.min.css" rel="stylesheet" />    <!-- Material Design Bootstrap -->
+    <!-- my style -->
+    <link href="../style/myEvent.css" rel="stylesheet" />
+    <link href="../style/CarePetStyle.css" rel="stylesheet" />
+
+    <!-- jquery.mobile--->
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    `<style>
+        .tada {
+            background-color: coral;
+            border-radius: 20px;
+        }
+        #Titel {  
+            font-family: David;
+            font-size:20px;
+            background-color:deepskyblue;
+        }
+        #myText {
+            font-size: 25px;
+            color: blue;
+        }
+    </style>
+
+
+</head>
+<body dir="rtl">
+
+    <div data-role="page" id="demo-page" data-title="Inbox" data-url="demo-page" tabindex="0" class="ui-page ui-page-theme-a ui-page-header-fixed ui-page-active" style="padding-top: 0;">
+        <div id="Titel">
+            <br />
+            <div class="row">
+                <div class="col-2">
+                    <span id="back"><i class="fa fa-mail-forward" aria-hidden="true"></i></span>
+
+                </div>
+                <div class="col-8" id="myText" style="text-align:center;">
+                    ההתרעות שלי
+                </div>
+
+                <div class="col-2">
+
+                </div>
+            </div>
+        </div>
+
+
+        <!-- /header -->
+        <div role="main" class="ui-content">
+            <ul id="list" class="touch ui-listview" data-role="listview" data-icon="false" data-split-icon="delete" style="text-align:center">
+                <li class="ui-li-has-alt ui-first-child">
+                        <p>הדף לא תומך</p>
+       
+                </li>
+            </ul>
+        <br /><br /><br /><br />
+                <div class="animated tada"id="no_event" style="display:none;text-align:center;">
+                    <h1>אין לך אירועים </h1>
+                    <h4> כדי להוסיף חזור לדף האירועים </h4>
+                    <h4> בחר את היום את השעה ואת סוג  האירוע</h4>
+                    <h6>*  אתה יכול גם לקבוע את חשיבות האירוע  </h6>
+
+                </div>
+            </div><!-- /content -->
+
+        <div style="display: none;" id="confirm-placeholder"><!-- placeholder for confirm --></div><!-- /popup -->
+
+        <div class="ui-popup-screen ui-overlay-inherit ui-screen-hidden" id="confirm-screen"></div>
+
+        <div class="ui-popup-container ui-popup-hidden ui-popup-truncate" id="confirm-popup">
+            <div id="confirm" class="ui-content ui-popup ui-body-a ui-overlay-shadow ui-corner-all" data-role="popup" data-theme="a">
+                <p id="question">את בטוח שאתה רוצה למחוק את האירוע :</p><p class="topic"><strong>מה יש לי החודש</strong></p>    
+                       <div class="ui-grid-a">
+                            <div class="ui-block-a">
+                                <a id="yes" class="ui-btn ui-corner-all ui-mini ui-btn-a" data-rel="back">Yes</a>
+                            </div>
+                            <div class="ui-block-b">
+                                <a id="cancel" class="ui-btn ui-corner-all ui-mini ui-btn-a" data-rel="back">Cancel</a>
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- my JavaScript -->
+
+
+
+    <script src="../Libraries/Globals.js"></script>
+    <script src="../cordova.js"></script>
+    <script src="../scripts/myEventList.js"></script>
+
+</body>
+</html>

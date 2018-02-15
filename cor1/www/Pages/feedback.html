@@ -1,0 +1,189 @@
+﻿<!DOCTYPE html>
+<html lang="he">
+<head>
+    <title>feedback</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- MDB -->
+    <script src="../MDB/js/jquery-3.2.1.min.js"></script>    <!-- JQuery -->
+    <script src="../MDB/js/popper.min.js"></script>    <!-- Bootstrap tooltips -->
+    <script src="../MDB/js/bootstrap.min.js"></script>    <!-- Bootstrap core JavaScript -->
+    <script src="../MDB/js/mdb.min.js"></script>  <!-- MDB core JavaScript -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="../MDB/css/bootstrap.min.css" rel="stylesheet" />    <!-- Bootstrap core CSS -->
+    <link href="../MDB/css/mdb.min.css" rel="stylesheet" />    <!-- Material Design Bootstrap -->
+    <!-- my style -->
+    <link href="../style/myEvent.css" rel="stylesheet" />
+    <link href="../style/CarePetStyle.css" rel="stylesheet" />
+    <!-- jquery.mobile--->
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    `
+    <style>
+        #Titel {
+            padding-top:10px;
+            font-size: 20px;
+            background-color: deepskyblue;
+            position: fixed;
+            z-index: 2;
+            width: 100%;
+        }
+
+        .ui-page {
+            font-family: David;
+            /*font-size: 20px;*/
+        }
+
+        label {
+            padding-top: 5px;
+            text-align: center;
+        }
+
+        .label_textarea {
+            padding-top: 20px;
+        }
+
+        textarea {
+            background-color: aliceblue !important;
+            border-color: blue !important;
+        }
+
+        input {
+            background-color: lightblue !important;
+            border-color: blue !important;
+            border-radius: 20px !important;
+            color: #333;
+            text-shadow: 0 1px 0 #f3f3f3;
+        }
+        #lbl_text, #lbl_text2 {
+            text-align: center;
+            font-size: 25px;
+            padding-top: 10px;
+            padding-bottom: 5px;
+        }
+
+        .box2 {
+            background-color: aliceblue;
+            border: 2px solid dodgerblue !important;
+            border-radius: 10px;
+        }
+        #dog_raninig {
+            width: 75%;
+            border-radius: 10px;
+            height: 85px;
+        }
+    </style>
+
+
+</head>
+<body dir="rtl">
+
+    <div data-role="page" id="feedback-page" data-title="Inbox" data-url="demo-page" tabindex="0" class="ui-page ui-page-theme-a ui-page-header-fixed ui-page-active" style="padding-top: 0;">
+        <div id="Titel">
+            <div class="row">
+                <div class="col-2">
+                    <span id="back"><i class="fa fa-mail-forward" aria-hidden="true"></i></span>
+
+                </div>
+                <div class="col-8" id="myText" style="text-align:center;">
+                    <h3>משוב</h3>
+                </div>
+                <div class="col-2">
+
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+        <div class="modal fade" id="form_feed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="top:100px">
+            <div class="loader" style="display:none"></div>
+
+            <div class="modal-dialog modal-notify modal-danger" role="document">
+                <!--Content-->
+                <div class="modal-content text-center">
+                    <div class="modal-body">
+                        <img id="dog_raninig" src="../images/pic/dog_feedbak.gif" />
+                        <p>תודה על המשוב</p>
+
+                    </div>
+                    <div class=" flex-center">
+                        <button type="button" id="ConfirmAdd" data-dismiss="modal" class="btn btn-info">אישור<!--<i class="fa fa-check ml-1"></i>--></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div role="main" class="ui-content">
+            <div class="loader" style="display:none"></div>
+
+            <form id="feedback">
+                <div class="row box2 " style="direction:ltr">
+
+                    <label id="lbl_text" class="col-12"> דרג את החויה שלך</label>
+
+                    <div class="col-10">
+                        <input id="feed1" value="5" type="range" min="0" max="10" data-highlight="true" data-track-theme="c" />
+                    </div>
+                    <div class="col-2"> <label>חווית שימוש</label> </div>
+
+                    <div class="col-10">
+                        <input id="feed2" value="5" type="range" min="0" max="10" data-highlight="true" data-track-theme="c" />
+                    </div>
+                    <div class="col-2"><label>כמה מועיל</label></div>
+
+                    <div class="col-10">
+                        <input id="feed3" value="5" type="range" min="0" max="10" data-highlight="true" data-track-theme="c" />
+                    </div>
+                    <div class="col-2"><label>תמליץ לחברך</label></div>
+
+                    <div class="col-10">
+                        <input id="feed4" value="5" type="range" min="0" max="10" data-highlight="true" data-track-theme="c" />
+                    </div>
+                    <div class="col-2"><label>רמת העיצוב</label></div>
+
+                </div>
+                <br />
+
+                <div id="box2 " class="row box2">
+                    <label id="lbl_text2" class="col-12"> מה אתה חושב...</label>
+
+                    <div class="col-2">
+                        <label class="label_textarea">נקודות לשימור</label>
+                    </div>
+                    <div class="col-10">
+                        <textarea id="feed5" required maxlength="400" class="sm-textarea" length="400"></textarea>
+                    </div>
+
+
+                    <div class="col-2">
+                        <label class="label_textarea">נקודות לשיפור</label>
+                    </div>
+                    <div class="col-10">
+                        <textarea id="feed6" required maxlength="400" class="sm-textarea" length="400"></textarea>
+                    </div>
+
+                </div>
+                <br />
+                <button type="submit" id="btnSend" style="background-color:coral" class="btn">שלח</button>
+            </form>
+
+
+        </div>
+
+
+    </div>
+
+    <!-- my JavaScript -->
+
+
+
+    <script src="../Libraries/Globals.js"></script>
+    <script src="../cordova.js"></script>
+    <script src="../scripts/feedback.js"></script>
+
+
+</body>
+</html>

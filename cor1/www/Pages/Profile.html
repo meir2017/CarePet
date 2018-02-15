@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>פרופיל</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link href="../MDB/css/bootstrap.min.css" rel="stylesheet" />    <!-- Bootstrap core CSS -->
+    <link href="../MDB/css/mdb.min.css" rel="stylesheet" />    <!-- Material Design Bootstrap -->
+    <!-- my style -->
+    <link href="../style/CarePetStyle.css" rel="stylesheet" />
+
+
+
+    <style>
+        body {
+            text-align: right;
+            height: 550px;
+            direction: rtl;
+            background-color: white
+        }
+
+        #Titel {
+            background-color: powderblue;
+            top: 20px;
+            z-index: 2;
+            padding-bottom: 10px;
+            padding-top: 10px;
+            /*font-size: 20px;
+            background-color: white;
+            position: fixed;
+            z-index: 2;
+            width: 100%;
+            text-align:center;*/
+        }
+
+        #keep_pass, #keep_tal, #keep_email {
+            background-color: deepskyblue;
+            border-radius: 20px;
+            font-size: 15px;
+        }
+    </style>
+</head>
+
+<body>
+    <!--..................................................................................................................-->
+    <div class="container">
+
+
+        <div id="myPage">
+
+            <div id="Titel" class="row ">
+                <div class="col-2">
+                    <span id="back" class="fa fa-mail-forward"></span>
+
+                </div>
+                <div class="col-10" id="myText" style="text-align:center;">
+                    <h3>פרופיל אישי</h3>
+                </div>
+
+            </div>
+
+            <br />
+            <form class="row "id="myEmail">
+                <div class="col-8" id="myText_1">
+                    <input type="text" id="editMail" name="editMail" class="form-control" title="נא לרשום כתובת תקנית">
+                </div>
+                <div class="col-4" style="text-align:center">
+                    <button type="submit" id="keep_email" class="btn  btn-md"> שנה</button>
+                </div>
+            </form>
+            <br />
+
+            <form class="row"id="myPhone">
+                <div class="col-8" id="myText_2">
+
+                    <input id="editPhone" type="tel" name="editPhone" placeholder="טלפון " class="form-control" title="לפי המבנה מספר-קידומת">
+                </div>
+                <div class="col-4" style="text-align:center">
+                    <button  type="submit" id="keep_tal" class="btn  btn-md"> שנה</button>
+                </div>
+
+            </form>
+            <br /><br />
+            <form id="myPass" class="row" style="border: 2px solid deepskyblue">
+                <p style=" text-decoration: underline">שינוי סיסמה</p>
+                <div class="col-12">
+                    <input type="text" id="pass1"required  placeholder="סיסמה נוכחית " class="form-control">
+                </div>
+                <div class="col-12">
+                    <input type="text" id="pass2" required minlength="4" placeholder="סיסמה חדשה " class="form-control">
+                </div>
+                <div class="col-12">
+                    <input type="text" id="pass3" required minlength="4" placeholder="אימות סיסמה " class="form-control">
+                </div>
+                <div class="col-12" style="text-align:center">
+                    <button   type="submit" id="keep_pass" class="btn  btn-md"> שמור</button>
+                </div>
+
+            </form>
+
+
+        </div>
+        <div class="modal fade" id="FormConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="top:100px">
+            <div class="loader" style="display:none"></div>
+
+            <div class="modal-dialog modal-notify modal-info" role="document">
+                <!--Content-->
+                <div class="modal-content text-center">
+                    <div class="modal-body">
+
+                        <i class="fa fa-check fa-4x animated rotateIn mb-4"></i>
+
+                        <p>השינוי בוצע בהצלחה </p>
+
+                    </div>
+                    <div class=" flex-center">
+                        <button type="button" id="btnYes"data-dismiss="modal" class="btn btn-info"><i class="fa fa-check ml-1"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+    </div>
+
+
+    <!--....................................................................................................................-->
+    <script src="../MDB/js/jquery-3.2.1.min.js"></script>    <!-- JQuery -->
+    <script src="../MDB/js/popper.min.js"></script>    <!-- Bootstrap tooltips -->
+    <script src="../MDB/js/bootstrap.min.js"></script>    <!-- Bootstrap core JavaScript -->
+    <script src="../MDB/js/mdb.min.js"></script>  <!-- MDB core JavaScript -->
+    <!-- my JavaScript -->
+    <script src="../Libraries/Globals.js"></script>
+    <script src="../cordova.js"></script>
+    <!-- for this page -->
+    <script src="../scripts/ProfilePage.js"></script>
+
+</body>
+
+</html>

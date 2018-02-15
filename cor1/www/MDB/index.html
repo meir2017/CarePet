@@ -1,0 +1,154 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Material Design Bootstrap</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link href="../MDB/css/bootstrap.min.css" rel="stylesheet" />    <!-- Bootstrap core CSS -->
+    <link href="../MDB/css/mdb.min.css" rel="stylesheet" />    <!-- Material Design Bootstrap -->
+
+    <link href="../MDB/css/style.css" rel="stylesheet" />    <!-- my style -->
+
+    <style>        #btn_main{
+        }
+        #btn1,#btn2{
+            font-size: 30px;
+            border-radius:10px;
+            text-shadow:5px;
+        }
+    </style>
+</head>
+
+    <body  style="background-color:#bbdefb">
+
+
+        <div  id="btn_main"class="flex-center flex-column">
+            <br /><br /><br />
+
+            <form class="range">
+                <input type="range" min="0" max="100" />
+            </form>
+
+            <img class="img-responsive  animated wobble" src="../images/pic/logo_temp2.jpg" alt="Chania" width="90%" height="120">
+
+            <br /><br /><br /><br />
+            <button class="btn btn-info btn-lg animated fadeInRightBig"type="button" id="btn1" data-toggle="modal" data-target="#modalLogin">התחבר</button>
+            <br><br>
+            <button class="btn btn-info btn-lg animated fadeInLeftBig" type="button" id="btn2" data-toggle="modal" data-target="#modalRegister">הרשמה</button>
+
+        </div>
+        
+
+
+        <!--Modal: Login Form-->
+        <div style="top:100px" class="modal fade" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog cascading-modal" role="document">
+                <!--Content-->
+                <div class="modal-content">
+
+                    <!--Header-->
+                    <div class="modal-header light-blue darken-3 white-text">
+                        <h4 class="title"><i class="fa fa-user"></i> Log in</h4>
+                        <button type="button" class="close waves-effect waves-light" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <!--Body-->
+                    <div class="modal-body">
+                        <div class="md-form form-sm">
+                            <i class="fa fa-user prefix"></i>
+                            <input type="text" id="txtName" class="form-control">
+                            <label for="txtName">user name</label>
+                        </div>
+
+                        <div class="md-form form-sm">
+                            <i class="fa fa-lock prefix"></i>
+                            <input type="password" id="txtPass" class="form-control">
+                            <label for="txtPass">password</label>
+                        </div>
+
+                        <div class="text-center mt-2">
+                            <button id="btnLogin" class="btn btn-info">Log in <i class="fa fa-sign-in ml-1"></i></button>
+                        </div>
+
+                    </div>
+
+                </div>
+                <!--/.Content-->
+            </div>
+        </div>
+        <!--Modal: Login Form-->
+        <!--Modal: Register Form-->
+        <div style="top:80px" class="modal fade" id="modalRegister" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog cascading-modal" role="document">
+                <!--Content-->
+                <div class="modal-content">
+                    <!--Header-->
+                    <div class="modal-header light-blue darken-3 white-text">
+                        <h4 class="title"><i class="fa fa-user-plus"></i> Register</h4>
+                        <button type="button" class="close waves-effect waves-light" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <!--Body-->
+                    <div class="modal-body">
+                        <div class="md-form form-sm">
+                            <i class="fa fa-user prefix"></i>
+                            <input type="text" id="StxtName" class="form-control">
+                            <label for="StxtName">שם משתמש</label>
+                        </div>
+
+                        <div class="md-form form-sm">
+                            <i class="fa fa-envelope prefix"></i>
+                            <input type="email" id="SֹtxtMail" class="form-control">
+                            <label for="SֹtxtMail">מייל</label>
+                        </div>
+
+                        <div class="md-form form-sm">
+                            <i class="fa fa-phone-square prefix"></i>
+                            <input type="text" id="SֹtxtPhone" class="form-control">
+                            <label for="SֹtxtPhone">טלפון</label>
+                        </div>
+
+                        <div class="md-form form-sm">
+                            <i class="fa fa-lock prefix"></i>
+                            <input type="password" id="SֹtxtPass" class="form-control">
+                            <label for="SֹtxtPass">סיסמה</label>
+                        </div>
+
+                        <div class="md-form form-sm">
+                            <i class="fa fa-lock prefix"></i>
+                            <input type="password" id="SֹtxtConfirm" class="form-control">
+                            <label for="SֹtxtConfirm">אימות סיסמה</label>
+                        </div>
+
+                        <div class="text-center mt-2">
+                            <button id="btnLogin1" class="btn btn-info">Sign up <i class="fa fa-sign-in ml-1"></i></button>
+                        </div>
+
+                    </div>
+
+                </div>
+                <!--/.Content-->
+            </div>
+        </div>
+        <!--Modal: Register Form-->
+
+
+
+
+        <script src="../MDB/js/jquery-3.2.1.min.js"></script>    <!-- JQuery -->
+        <script src="../MDB/js/popper.min.js"></script>    <!-- Bootstrap tooltips -->
+        <script src="../MDB/js/bootstrap.min.js"></script>    <!-- Bootstrap core JavaScript -->
+        <script src="../MDB/js/mdb.min.js"></script>  <!-- MDB core JavaScript -->
+        <!-- my JavaScript -->
+        <script src="../scripts/Sign_inPage.js"></script>
+        <script src="../scripts/LoginPage.js"></script>
+    </body>
+
+</html>

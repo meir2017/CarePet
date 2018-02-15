@@ -1,0 +1,368 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>דף לקוח</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link href="../MDB/css/bootstrap.min.css" rel="stylesheet" />    <!-- Bootstrap core CSS -->
+    <link href="../MDB/css/mdb.min.css" rel="stylesheet" />    <!-- Material Design Bootstrap -->
+    <!-- my style -->
+    <link href="../style/CarePetStyle.css" rel="stylesheet" />
+    <style>
+        .txtLabl {
+            width: 90% !important;
+            margin:20px;
+        }
+
+        .nav {
+            display: -ms-flexbox;
+            display: flex;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            padding-left: 0;
+            margin-bottom: 0;
+            list-style: none;
+        }
+
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #b30000;
+        }
+
+        ::-webkit-scrollbar {
+            color: Highlight
+        }
+
+        ul a {
+            color: rgba(0,0,0,.2);
+            text-decoration: none;
+            /*cursor: pointer;*/
+        }
+
+        body {
+            text-align: right;
+            /*height: 550px;*/
+            direction: rtl;
+        }
+
+        #DateEnd, #DateStart {
+            width: 80%;
+            font-size: 15px;
+        }
+
+        .infoText {
+            text-align: right;
+            right: 20px;
+        }
+
+        #nameSend, #emailSend, #phoneSend {
+            border: none
+        }
+        .active i {
+            color: #ff6a00;
+            /*color: #007bff;*/
+            /*#007bff*/
+        }
+     
+
+        /*//////////////////*/
+
+        #myMenu {
+            direction: ltr !important;
+            text-align: left !important;
+        }
+        #Titel-page {
+            color: cornflowerblue;
+            position: fixed;
+            z-index: 2;
+            background-color: white;
+            width: 100%;
+            border-bottom: solid 2px lightgray;
+            border-radius: 10px;
+        }
+
+        #dog_raninig, #dog_raninig1 {
+            width: 75%;
+            border-radius: 10px;
+            height: 85px;
+        }
+
+    </style>
+
+
+</head>
+
+<body>
+    <!--..................................................................................................................-->
+    <div class="container">
+        <!--Grid row-->
+        <div id="myPage">
+
+            <!-- Nav tabs -->
+            <div class="row"  id="Titel-page">
+                <div class="col-2" > <span id="open-menu"><i class="fa fa-reorder" aria-hidden="true"></i></span>  <!--כפתור תפריט--> </div>
+
+                <div class="col-9" style="text-align:center">
+                    <div class="tabs-wrapper">
+                        <ul class="nav classic-tabs tabs-orange" role="tablist">
+
+                            <li class="nav-item">
+                                <a class="nav-link waves-light active" id="DogWalk" data-toggle="tab" href="#LookDogWalkMap" role="tab"><i class="fa fa-search fa-2x" aria-hidden="true"></i><br> חיפוש</a>
+                            </li>&nbsp;&nbsp;
+                            <li class="nav-item">
+                                <a class="nav-link waves-light" id="register_DogWalk" data-toggle="tab" href="#RegisterDogWalk" role="tab"><i class="fa fa-pencil fa-2x" aria-hidden="true"></i><br>הרשמה</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-1"></div>
+
+            </div>
+      
+            <div class="loader" style="display:none"></div>
+
+
+
+            <!-- Tab panels -->
+            <div class="tab-content card">
+
+                <!--Panel 1-->
+                <div class="tab-pane fade in show active" id="LookDogWalkMap" role="tabpanel">
+                    <!--דף ברירת המחדל-->
+                    <br /><br /><br />
+                    <div class="row ">
+
+                        <br /><br /><br /><br />
+                        <div class="col-sm-12" style="height:500px" id="DogWalkMap"></div>
+                    </div>
+                </div>
+
+                <!--/.Panel 1-->
+                <!--Panel 2-->
+                <div class="tab-pane fade" id="RegisterDogWalk" role="tabpanel">
+                    <!--<div id="DogWalkRegister"></div>-->
+                    <!--<form id="myform">-->
+                        <form id="myform" action="DogWalk.html">
+                            <fieldset>
+                                <br /><br /><br /><br />
+                                <p style="text-align:center;color:blue">הרשמה למי שרוצה להיות Dog Walker</p>
+                                <div class="md-form">
+                                    <input type="text" required id="Name_D" placeholder="שם" class="form-control txtLabl">
+                                    <!--<label class="txtLabl" for="Name_D">שם</label>-->
+                                </div>
+                                <div class="md-form">
+                                    <input type="text" required id="tal_D"placeholder="טלפון"  class="form-control txtLabl">
+                                    <!--<label class="txtLabl" for="tal_D">טלפון</label>-->
+                                </div>
+                                <div class="md-form">
+                                    <input type="email" required id="email_D"placeholder="דואר אלקטרוני"  class="form-control txtLabl">
+                                    <!--<label class="txtLabl" for="email_D">מייל</label>-->
+                                </div>
+                                <div class="md-form">
+                                    <input type="text" required id="City_D" placeholder="עיר" class="form-control txtLabl">
+                                    <!--<label class="txtLabl" for="City_D">עיר</label>-->
+                                </div>
+                                <div class="md-form">
+                                    <input type="text" required id="address_D"placeholder="כתובת"  class="form-control txtLabl">
+                                    <!--<label class="txtLabl" for="address_D">כתובת</label>-->
+                                </div>
+
+                                <div class="md-form">
+                                    <input type="text" required id="info_D"placeholder="הערות"  class="form-control txtLabl">
+                                    <!--<label class="txtLabl" for="info_D">הערות</label>-->
+                                </div>
+
+                            </fieldset>
+                            <!--*   ישלח לך מייל  pet care  לאחר אישור-->
+                            <div style="position:center;text-align:center">
+                                <!--<button type="submit" id="btnLogin" class="btn btn-info">Log in <i class="fa fa-sign-in ml-1"></i></button>-->
+
+                                <button type="submit" id="btnSend" class="btn btn-info btn-lg" >שלח</button>
+                            </div>
+                        </form>
+
+
+
+                </div>
+
+
+            </div>
+
+        </div>
+
+        <!--///////////-->
+
+
+        <div id="myMenu" style="display:none">
+            <div class="modal fade" id="exitApp" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="top:120px">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+
+                        <div class="modal-body" style="font-size:22px">
+                            ? אתה בטוח שאתה רוצה להתנתק
+                        </div>
+                        <div class="modal-footer" style=" padding-right: 90px;font-size:30px">
+                            <button type="button" class="btn btn-outline-danger" data-dismiss="modal">ביטול</button>
+                            <button type="button" id="goOut" class="btn btn-outline-blue" data-dismiss="modal">צא</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!----btn-pic-------------------->
+            <div id="menu" class="row">
+                <div style="text-align:center;left:10px" class="col-12  animated zoomInDown">
+                    <br />
+                    <span id="close-menu"><b> <i class="fa fa-close" aria-hidden="true"></i></b></span>
+                    <br />
+                </div>
+                <br /><br /><br /><br />
+                <div class="col-6 btn_pic">
+                    <div class="animated flipInX">
+                        <a href="MyAnimals.html">
+                            <img class=" btn2" src="../images/picMain/myAnimal.png" />
+                            החיות שלי
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-6 btn_pic">
+                    <div class="animated flipInX">
+                        <a href="Search.html">
+                            <img class=" btn2" src="../images/picMain/onMap.png" />
+                            על המפה
+                        </a>
+                    </div>
+
+                </div>
+
+                <div class="col-6 btn_pic">
+                    <div class="animated flipInX ">
+                        <a href="Calender.html">
+                            <img class=" btn2" src="../images/picMain/calendar.png" />
+                            לוח אירועים
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-6 btn_pic">
+                    <div class="animated flipInX ">
+                        <a href="CustomerPage.html">
+                            <img class="btn2" src="../images/picMain/pension.png" />
+                            הרשמה לפנסיון
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-6 btn_pic">
+                    <div class="animated flipInX">
+                        <a href="DogWalk.html">
+                            <img class="btn2" src="../images/picMain/addPet.png" />
+                            DogWalk
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-6 btn_pic">
+                    <div class="animated flipInX">
+                        <a href="parks.html">
+                            <img class="btn2" src="../images/picMain/Parks.png" />
+                            פארקים
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <footer class="page-footer blue center-on-small-only pt-sm-5 animated flipInX">
+
+                <div class="social-section text-center">
+                    <a href="feedback.html" class="icons-sm fb-ic"><i class="fa fa-pencil fa-lg black-text mr-md-5"> </i></a>
+
+                    &nbsp;&nbsp;  &nbsp;&nbsp;
+                    <a href="AboutUs.html">
+                        <img style="width:30px;height:22px;" src="../images/pic/propilAnimal.png" class="img-rounded" alt="פנסיון " id="picMap1">
+                    </a>
+                    &nbsp;&nbsp;  &nbsp;&nbsp;
+                    <a href="#" data-toggle="modal" data-target="#exitApp"> <span class="fa fa-sign-out black-text"></span></a>
+                    &nbsp;&nbsp;  &nbsp;&nbsp;
+
+                    <a href="Profile.html">
+                        <i class="fa fa-user-circle  black-text mr-md-5" aria-hidden="true"></i>
+                    </a>
+                </div>
+                <hr />
+
+                <div class="footer-copyright">
+                    <div class="container-fluid">
+                        © 2017 MyPet: meir & nir
+
+                    </div>
+                </div>
+
+
+            </footer>
+
+        </div>
+        <div class="modal fade" id="Add_DogWalker" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="top:100px">
+            <div class="loader" style="display:none"></div>
+
+            <div class="modal-dialog modal-notify modal-danger" role="document">
+                <!--Content-->
+                <div class="modal-content text-center">
+                    <div class="modal-body">
+                        <img id="dog_raninig" src="../images/pic/dog_waker.gif" />
+                        <!--<i class="fa fa-bell fa-4x animated rotateIn mb-4" style="color:red"></i>-->
+                        <p>ההרשמה בוצעה בהצחה</p>
+
+                    </div>
+                    <div class=" flex-center">
+                        <button type="button" id="ConfirmAdd" data-dismiss="modal" class="btn btn-info">אישור<!--<i class="fa fa-check ml-1"></i>--></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="error_Add_DogWalker" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="top:100px">
+            <div class="loader" style="display:none"></div>
+
+            <div class="modal-dialog modal-notify modal-danger" role="document">
+                <!--Content-->
+                <div class="modal-content text-center">
+                    <div class="modal-body">
+                        <img id="dog_raninig1" src="../images/pic/smaili_1.png" />
+                        <!--<i class="fa fa-bell fa-4x animated rotateIn mb-4" style="color:red"></i>-->
+                        <p>לא הצלחנו לאתר את במיקום שלך בדוק את הכתובת </p>
+
+                    </div>
+                    <div class=" flex-center">
+                        <button type="button" id="ConfirmAnimal" data-dismiss="modal" class="btn btn-info">אישור<!--<i class="fa fa-check ml-1"></i>--></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAm0dN8LFvTqMpiWABlPizAKL-ESWtQkwo&callback=initMap">
+    </script>
+
+    <!--....................................................................................................................-->
+    <script src="../MDB/js/jquery-3.2.1.min.js"></script>    <!-- JQuery -->
+    <script src="../MDB/js/popper.min.js"></script>    <!-- Bootstrap tooltips -->
+    <script src="../MDB/js/bootstrap.min.js"></script>    <!-- Bootstrap core JavaScript -->
+    <script src="../MDB/js/mdb.min.js"></script>  <!-- MDB core JavaScript -->
+    <!-- my JavaScript -->
+    <script src="../Libraries/Globals.js"></script>
+    <script src="../cordova.js"></script>
+    <!-- for this page -->
+    <script src="../scripts/DogWalk.js"></script>
+
+</body>
+
+</html>

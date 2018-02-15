@@ -1,0 +1,371 @@
+﻿<!DOCTYPE html>
+<html lang="he">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>לוח אירועים</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link href="../MDB/css/mdb.min.css" rel="stylesheet" />    <!-- Material Design Bootstrap -->
+    <!-- my style -->
+    <script src="../MDB/js/jquery-3.2.1.min.js"></script>    <!-- JQuery -->
+    <!--//////// לוח שנה///////-->
+
+    <link href="../Libraries/FullCalendar/fullcalendar.min.css" rel="stylesheet" />
+    <link href="../Libraries/FullCalendar/fullcalendar.print.min.css" rel="stylesheet" media='print' />
+    <script src="../Libraries/FullCalendar/lib/jquery.min.js"></script>
+    <script src="../Libraries/FullCalendar/lib/moment.min.js"></script>
+    <script src="../Libraries/FullCalendar/fullcalendar.min.js"></script>
+    <script src="../Libraries/FullCalendar/locale-all.js"></script>
+
+    <!--//////// לוח שנה///////-->
+    <link href="../MDB/css/bootstrap.min.css" rel="stylesheet" />    <!-- Bootstrap core CSS -->
+    <link href="../style/CarePetStyle.css" rel="stylesheet" />
+    <script src="../cordova.js"></script>
+
+
+    <style>
+        body {
+            text-align: right !important;
+            height: 550px;
+        }
+
+        /*#myPage {
+            background: linear-gradient(to left, silver,slategrey);
+        }*/
+
+        #calendar {
+            max-width: 900px;
+            margin: 0 auto;
+            /*font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;*/
+            font-family: Dvid;
+            background-color: #f8f9fa;
+            box-shadow: inset 0px -1px 18px 3px #007bff;
+            padding: 3px;
+        }
+
+        #titleTxt, #descriptionTxt, #EditeventTitle, #EditDetails {
+            text-align: right !important;
+        }
+
+        form {
+            direction: rtl;
+        }
+
+        .txtLabl {
+            left: 250px !important;
+        }
+
+        #newEvent, #editEvent {
+            top: 90px
+        }
+
+
+        .event_logo {
+            font-size: 35px;
+            padding-right: 15px;
+            color: cornflowerblue;
+        }
+
+        #Titel_calendar {
+            font-family: David;
+            font-size: 25px;
+            color: cornflowerblue;
+            margin-top: 10px;
+            background-color: white !important;
+        }
+
+        .iconTop {
+            top: 5px;
+            font-size: 20px;
+            color: cornflowerblue
+        }
+
+        .fa-list-ol {
+            color: black
+        }
+        .h2, h2 {
+            font-size: 1.4rem !important;
+            padding-top: 5px!important;
+        }
+
+        #calendar {
+            max-width: 900px;
+            margin: 0 auto;
+            font-family: Dvid;
+            background-color: #f8f9fa;
+            box-shadow: inset 0px -1px 18px 3px #007bff;
+            padding: 3px;
+            /* margin: 3px; */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+
+        <div id="myPage" class="col-12">
+            <div class="row" id="Titel_calendar">
+
+
+                <div class="col-2" id="go_list"><i class="fa fa-list-ol iconTop" aria-hidden="true"></i></div>
+
+                <div class="col-8">
+                    <span>לוח אירועים</span>&nbsp;&nbsp;
+
+                </div>
+                <div class="col-2" id="open-menu"><i class="fa fa-reorder iconTop" aria-hidden="true"></i></div>
+            </div>
+            <hr />
+            <br />
+            <div class="loader" style="display:none"></div>
+
+            <div class="row ">
+
+                <div id='calendar'></div>
+
+                <!--/////newEvent//////-->
+
+                <form class="modal fade" id="newEvent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog cascading-modal" role="document">
+                        <!--Content-->
+                        <div class="modal-content">
+
+                            <!--Header-->
+                            <div class="modal-header light-blue darken-3 white-text">
+                                <h4 class="title"><i class="fa fa-pencil event_logo ">&nbsp;&nbsp;&nbsp;</i> אירוע חדש</h4>
+                                <button type="button" class="close waves-effect waves-light" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+
+                            <!--Body-->
+                            <div class="modal-body">
+                                <div class="text-center">
+                                    <div class="md-form form-sm body_tx">
+                                        <input required type="text" id="titleTxt" class="form-control">
+                                        <label class="txtLabl" for="titleTxt">כותרת</label>
+                                    </div>
+
+                                    <div class="md-form form-sm">
+                                        <input required type="text" id="descriptionTxt" class="form-control">
+                                        <label class="txtLabl" for="descriptionTxt">תזכורת</label>
+                                    </div>
+
+                                    <div class="modal-footer justify-content-center">
+                                        <div class="col-6">בשעה</div>
+                                        <div class="col-6"><input required type="time" id="myTime" /></div>
+                                    </div>
+
+                                    <div class="col-12">
+                                        <select required class="form-control" id="important">
+                                            <option value="">-בחר חשיבות אירוע-</option>
+                                            <option style="background-color:lightskyblue">רגיל </option>
+                                            <option style="background-color:lemonchiffon">חשוב</option>
+                                            <option style="background-color:lightcoral">דחוף</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Footer-->
+                            <div class="modal-footer justify-content-center">
+                                <button id="ok" type="submit" class="btn btn-success"> שמור </button>
+                                <button id="no" type="button" class="btn btn-primary" data-dismiss="modal"> ביטול </button>
+                            </div>
+                        </div>
+                        <!--/.Content-->
+                    </div>
+                </form>
+
+                <!--/////editEvent//////-->
+                <form class="modal fade" id="editEvent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog cascading-modal" role="document">
+                        <!--Content-->
+                        <div class="modal-content">
+
+                            <!--Header-->
+                            <div class="modal-header light-blue darken-3 white-text">
+                                <h4 class="title"><i class="fa fa-pencil event_logo">&nbsp;&nbsp;&nbsp;</i>עריכה/מחיקה</h4>
+                                <button type="button" class="close waves-effect waves-light" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+
+                            <!--Body-->
+                            <div class="modal-body">
+                                <div class="text-center">
+                                    <div class="md-form form-sm body_tx">
+                                        <input required type="text" id="EditeventTitle" class="form-control">
+                                    </div>
+
+                                    <div class="md-form form-sm">
+                                        <input required type="text" id="EditDetails" class="form-control">
+                                    </div>
+
+                                    <div class="modal-footer justify-content-center">
+                                        <div class="col-6">בשעה</div>
+                                        <div class="col-6"><input required type="time" id="myTimeEdit" /></div>
+                                    </div>
+
+                                    <div class="col-12">
+                                        <select required class="form-control" id="Editimportant">
+                                            <option value="">-בחר חשיבות אירוע-</option>
+                                            <option style="background-color:lightskyblue">רגיל </option>
+                                            <option style="background-color:lemonchiffon">חשוב</option>
+                                            <option style="background-color:lightcoral">דחוף</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Footer-->
+                            <div class="modal-footer justify-content-center">
+                                <button id="btnEdit" type="submit" class="btn btn-success"> עריכה </button>
+                                <button id="btnDelete" type="button" class="btn btn-primary" data-dismiss="modal"> מחיקה </button>
+
+                            </div>
+                        </div>
+                        <!--/.Content-->
+                    </div>
+                </form>
+
+            </div>
+        </div>
+
+        <!--end Calender-->
+        <div class="modal fade" id="exitApp" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="top:120px">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+
+                    <div class="modal-body" style="font-size:22px">
+                        ? אתה בטוח שאתה רוצה להתנתק
+                    </div>
+                    <div class="modal-footer" style=" padding-right: 90px;font-size:30px">
+                        <button type="button" class="btn btn-outline-danger" data-dismiss="modal">ביטול</button>
+                        <button type="button" id="goOut" class="btn btn-outline-blue" data-dismiss="modal">צא</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div id="myMenu" style="display:none">
+            <!----btn-pic-------------------->
+            <div id="menu" class="row">
+                <div style="text-align:center;left:10px" class="col-12  animated zoomInDown">
+                    <br />
+                    <span id="close-menu"><b> <i class="fa fa-close" aria-hidden="true"></i></b></span>
+                    <br />
+                </div>
+                <br /><br /><br /><br />
+                <div class="col-6 btn_pic">
+                    <div class="animated flipInX">
+                        <a href="MyAnimals.html">
+                            <img class=" btn2" src="../images/picMain/myAnimal.png" />
+                            החיות שלי
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-6 btn_pic">
+                    <div class="animated flipInX">
+                        <a href="Search.html">
+                            <img class=" btn2" src="../images/picMain/onMap.png" />
+                            על המפה
+                        </a>
+                    </div>
+
+                </div>
+
+                <div class="col-6 btn_pic">
+                    <div class="animated flipInX ">
+                        <a href="Calender.html">
+                            <img class=" btn2" src="../images/picMain/calendar.png" />
+                            לוח אירועים
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-6 btn_pic">
+                    <div class="animated flipInX ">
+                        <a href="CustomerPage.html">
+                            <img class="btn2" src="../images/picMain/pension.png" />
+                            הרשמה לפנסיון
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-6 btn_pic">
+                    <div class="animated flipInX">
+                        <a href="DogWalk.html">
+                            <img class="btn2" src="../images/picMain/addPet.png" />
+                            DogWalk
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-6 btn_pic">
+                    <div class="animated flipInX">
+                        <a href="parks.html">
+                            <img class="btn2" src="../images/picMain/Parks.png" />
+                            פארקים
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <footer class="page-footer blue center-on-small-only pt-sm-5 animated flipInX">
+
+                <div class="social-section text-center">
+                    <a href="feedback.html" class="icons-sm fb-ic"><i class="fa fa-pencil fa-lg black-text mr-md-5"> </i></a>
+
+                    &nbsp;&nbsp;  &nbsp;&nbsp;
+                    <a href="AboutUs.html">
+                        <img style="width:30px;height:22px;" src="../images/pic/propilAnimal.png" class="img-rounded" alt="פנסיון " id="picMap1">
+                    </a>
+                    &nbsp;&nbsp;  &nbsp;&nbsp;
+                    <a href="#" data-toggle="modal" data-target="#exitApp"> <span class="fa fa-sign-out black-text"></span></a>
+                    &nbsp;&nbsp;  &nbsp;&nbsp;
+
+                    <a href="Profile.html">
+                        <i class="fa fa-user-circle  black-text mr-md-5" aria-hidden="true"></i>
+                    </a>
+                </div>
+                <hr />
+
+                <div class="footer-copyright">
+                    <div class="container-fluid">
+                        © 2017 MyPet: meir & nir
+
+                    </div>
+                </div>
+
+
+            </footer>
+
+        </div>
+
+
+
+    </div>
+
+    <!--....................................................................................................................-->
+    <script src="../MDB/js/popper.min.js"></script>    <!-- Bootstrap tooltips -->
+    <script src="../MDB/js/bootstrap.min.js"></script>    <!-- Bootstrap core JavaScript -->
+    <script src="../MDB/js/mdb.min.js"></script>  <!-- MDB core JavaScript -->
+    <!-- my JavaScript -->
+    <script src="../Libraries/Globals.js"></script>
+    <script src="../Libraries/slider.js"></script>
+    <script src="../cordova.js"></script>
+    <!-- for this page -->
+    <script src="../scripts/Calender.js"></script>
+
+</body>
+
+</html>

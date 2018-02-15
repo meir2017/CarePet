@@ -1,0 +1,130 @@
+/* Your custom styles */
+
+body {
+    /*direction: rtl;*/
+}
+
+#choice_p, #choice_a, #commentSend, #Area, #Type, #Sex, #Vaccines, #Treatments, #Diseases, #Description, #inNewVaccines, #inNewTreatments, #inNewDiseases, #inNewDescript {
+    direction: rtl;
+    border-radius: 10px;
+    padding-right: 20px;
+    font-size: 15px;
+}
+
+#pension-info {
+    background-color: aliceblue;
+}
+
+/*#myMenu {
+    height: 500px;
+}*/
+
+.topMain {
+    background: linear-gradient(to left, silver,slategrey);
+
+}
+
+#myText {
+    text-align: center;
+    position: center;
+    /*top:5px;*/
+    font-size: 20px;
+    color: darkblue;
+}
+
+/*loader*/
+.loader {
+    top: 200px;
+    z-index: 5;
+    position: absolute;
+    left: 150px;
+    border: 16px solid CORAL;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/*...  Titel-page ... */
+#Titel-page {
+    color: cornflowerblue;
+    position: fixed;
+    z-index: 2;
+    background-color: white;
+    width: 100%;
+    background-color: white !important;
+    border-radius: 10px;
+}
+/*.....................       תפריט      .............................*/
+#open-menu {
+    font-size: 25px;
+    color: cornflowerblue;
+}
+
+#close-menu {
+    font-size: 40px;
+    text-align: center;
+    color: cornflowerblue;
+}
+
+.btn2 {
+    box-shadow: 5px 5px 5px 5px grey;
+    border: 2px solid cornflowerblue;
+    margin: 7px;
+    width: 90%;
+    border-radius: 10px;
+    height: 85px;
+}
+
+
+
+.btn_pic {
+    text-align: center;
+    tab-size: 15px;
+    padding: 3px;
+}
+
+
+footer {
+    padding: 4px;
+    right: 2px;
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+    /*חלק תחתון*/
+    footer.page-footer .footer-copyright {
+        /*padding:4px;*/
+        overflow: hidden;
+        height: 50px;
+        line-height: 17px !important;
+    }
+
+.social-section {
+    font-size: 22px;
+}
+/*...........................סוף תפריט...........................*/

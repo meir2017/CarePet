@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>עמוד12</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--style-->
+    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="../bootstrap/css/bootstrap-theme.css" rel="stylesheet" />
+
+    <script src="../bootstrap/js/bootstrap.js"></script> <!--בוסטראפ-->
+    <script src="../Libraries/jquery-3.1.1.min.js"></script><!--גקורי-->
+
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
+    <link href="../style/MyPetStyle.css" rel="stylesheet" />
+
+    <style>
+        #Bname, #Cname, #Bphon, #Address {
+            font-size: 18px
+        }
+    </style>
+</head>
+<body dir="rtl"style="background-color:antiquewhite">
+    <!-- Navigation -->
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" id="closeNav">&times;</a>
+        <a href="page3.html">דף ראשי</a>
+        <a href="MyAnimals.html">החיות שלי</a>
+        <a href="Search.html">חפש ספק</a>
+        <a href="Calender.html">לוח אירועים</a>
+        <a href="AddAnimals.html">הוסף חיה</a>
+        <a href="CustomerPage.html">פנסיון</a>
+        <a href="page2.html">פארקים</a>
+        <hr />
+        <a href="Business.html">הרשם כבעל עסק</a>
+        <a href="Profile.html">פרופיל</a>
+    </div>
+    <div class="topMain">
+        <br />
+        <span class="col-xs-2"></span>
+        <div class="col-xs-8" id="myText"> רישום עסק  </div>
+        <div class="col-xs-2"><span id="openNav">&#9776;</span></div>
+        <br /><br />
+    </div>
+
+    <div class="container-fluid" style="position:center;color:lightseagreen;font-size:18px">
+        <div class="row">
+            <div class="col-xs-12">
+                <div style="color:lightseagreen">
+                    
+                    <img class="img-responsive" src="../images/Adobe Spark.jpg" alt="Chania" width="460" height="260">           
+                    <div style="color:black">
+
+                        MyPet עוזרת לבעלי חיות מחמד להתנהל בצורה יותר טובה  בטיפול חית המחמד ,מנגישה להם מידע חיוני בתחומים וטרינריה,חנויות לחיות ופנסיונים
+                        אז אם את נותן את אחד השרותים אנחנו נשמח לפרם אותך ב MyPet
+                   </div>
+
+                </div>
+                <br />
+                <form class="form-horizontal" method="post">
+                    <fieldset>
+                        <!--<legend class="text-center header"><b>הרשמה לבעלי עסקים</b> </legend>-->
+
+                        <div class="form-group">
+                            <div class="col-xs-10  ">
+                                <input id="Bname" name="name" type="text" placeholder="שם העסק" class="form-control">
+                            </div>
+                            <span class="col-xs-2  text-center"><i class="glyphicon glyphicon-user"></i></span>
+                        </div>
+                        <!----------------------------------------------->
+                        <div class="form-group">
+                            <div class="col-xs-10  ">
+                                <input id="Cname" name="name" type="text" placeholder="עיר " class="form-control">
+                            </div>
+                            <span class="col-xs-2  text-center"><i class="glyphicon glyphicon-home"></i></span>
+                        </div>
+                        <!----------------------------------------------->
+                        <div class="form-group">
+                            <div class="col-xs-10  ">
+                                <input id="Address" name="name" type="text" placeholder="כתובת " class="form-control">
+                            </div>
+                            <span class="col-xs-2  text-center"><i class="glyphicon glyphicon-home"></i></span>
+                        </div>
+                        <!----------------------------------------------->
+                        <div class="form-group">
+                            <div class="col-xs-10  ">
+                                <input id="Bphon" name="name" type="text" placeholder="טלפון" class="form-control">
+                            </div>
+                            <span class="col-xs-2  text-center"><i class="	glyphicon glyphicon-earphone"></i></span>
+                        </div>
+                        <!----------------------------------------------->
+     
+                        <div class="form-group">
+                            <div class="col-xs-10  ">
+                                <select class="selectpicker show-menu-arrow col-xs-12" style="font-size:17px" id="Type">
+                                    <option value="0">בחר תחום</option>
+                                    <option value="1">וטרינרים</option>
+                                    <option value="2">פנסיון</option>
+                                    <option value="3">חנויות </option>
+                                </select>
+                            </div>
+                            <span class="col-xs-2  text-center"><i class="	glyphicon glyphicon-edit"></i></span>
+                        </div>
+
+
+
+                        <div class="col-xs-12  " style="position:center;text-align:center">
+                            <button type="button" id="btnSend" class="btn btn-success btn-lg">פרסם את העסק </button>
+                        </div>
+                       
+
+                    </fieldset>
+                </form>
+
+            </div>
+        </div>
+    </div>
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAm0dN8LFvTqMpiWABlPizAKL-ESWtQkwo&callback=initMap">
+    </script>
+
+    <!--  scripts בשביל כול הדפים  -->
+    <script src="../Libraries/Globals.js"></script>
+    <script src="../cordova.js"></script>
+    <!--  scripts בשביל הדך הזה  -->
+
+    <script src="../scripts/Business.js"></script>
+</body>
+</html>

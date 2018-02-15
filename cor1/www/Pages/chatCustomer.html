@@ -1,0 +1,158 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>צא'ט צד לקוח</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- MDB -->
+    <script src="../MDB/js/jquery-3.2.1.min.js"></script>    <!-- JQuery -->
+    <script src="../MDB/js/popper.min.js"></script>    <!-- Bootstrap tooltips -->
+    <script src="../MDB/js/bootstrap.min.js"></script>    <!-- Bootstrap core JavaScript -->
+    <script src="../MDB/js/mdb.min.js"></script>  <!-- MDB core JavaScript -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="../MDB/css/bootstrap.min.css" rel="stylesheet" />    <!-- Bootstrap core CSS -->
+    <link href="../MDB/css/mdb.min.css" rel="stylesheet" />    <!-- Material Design Bootstrap -->
+
+
+
+    <!--style-->
+    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="../bootstrap/css/bootstrap-theme.css" rel="stylesheet" />
+
+    <script src="../Libraries/jquery-3.1.1.min.js"></script><!--גקורי-->
+    <script src="../bootstrap/js/bootstrap.js"></script> <!--בוסטראפ-->
+
+
+    <link href="../style/Chat.css" rel="stylesheet" />
+    <link href="../style/CarePetStyle.css" rel="stylesheet" />
+    <style>
+        .toptop {
+            background-color: lightblue;
+            padding-top: 15px;
+        }
+
+        #n_Animal, #n_pension {
+            font-size: 18px;
+        }
+        .info_modal {
+            position: relative;
+            padding: 1px !important;
+            padding-bottom: 20px !important;
+            padding-top: 20px !important;
+        }
+        .myChat img:focus {
+            width: 50px;
+            height: 50px
+        }
+        .modal-body {
+            text-align: right;
+        }
+        /*------------------------------*/
+        #Titel_send {
+            direction: rtl;
+            padding-top: 8px;
+            border-radius: 20px;
+            font-size: 25px;
+
+        }
+
+        #sendMsg {
+            background-color: lightblue;
+            border-radius: 30px;
+            font-size: 20px;
+            width: 40px;
+            text-align: center;
+            height: 40px;
+            padding-top: 8px;
+        }
+
+        #input_div {
+            background-color: white;
+            border:1px solid grey;
+            border-radius: 20px;
+            height: 50px;
+            width: 100%;
+        }
+
+    </style>
+</head>
+<body background="../images/pic/background_chat.jpg" dir="rtl">
+
+        <div class="toptop">
+            <div class="col-xs-2"><a href="#" data-toggle="modal" data-target="#myModal"> <span class="glyphicon glyphicon-option-vertical"></span></a></div>
+            <span class="col-xs-4" id="n_Animal"></span>
+            <span class="col-xs-4" id="n_pension"></span>
+
+            <div class="col-xs-2"><span id="back" class="glyphicon glyphicon-share-alt"></span></div>
+            <br /><br />
+        </div>
+        <div class="container">
+            <div class="modal fade" id="myModal" role="dialog" style="padding-top:180px">
+                <div class="modal-dialog modal-xm">
+                    <!-- Modal content-->
+                    <div class="modal-content">
+                        <div class="modal-body info_modal">
+
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; פרטי הפנסיון :<span id="CustomerNumber"></span>
+                            <div>
+                                <span class="col-xs-4" id="Cpension_phone"> </span> <span class="col-xs-2">טלפון:</span>
+                                <span class="col-xs-4" id="Cpension_Name"></span> <span class="col-xs-2">פנסיון: </span>
+
+                                <span class="col-xs-4" id="Cpension_out"></span>      <span class="col-xs-2">עד:</span>
+                                <span class="col-xs-4" id="Cpension_in"></span> <span class="col-xs-2">כניסה:</span>
+                            </div>
+                            <br /><br /><br />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style="top:50px" class="modal fade" id="ModalPic" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <div style="width:100%;height:330px" id="picNow"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="myChat">
+
+        </div>
+        <div class="col-xs-12" id="footer">
+ 
+            <div class="row" id="Titel_send">
+                <div class="col-10" id="input_div"><input id="message"style="width:85%;border:none;font-size:18px" type="text" placeholder="הקלד/י   הודעה  "><i id="camera" style="width:10%;padding:10px;color:lightblue" class="fa fa-camera"></i> </div>
+                <div class="col-2"><i id="sendMsg" class="fa fa-paper-plane"></i></div>
+            </div>
+        </div>
+
+
+        <!--  scripts בשביל כול הדפים  -->
+        <script src="../Libraries/Globals.js"></script>
+        <script src="../cordova.js"></script>
+        <!--  scripts בשביל הדך הזה  -->
+        <script src="../scripts/chatCustomer.js"></script>
+        <script>
+            $(document).ready(function () {
+
+                        $('#message').on('input', function () {
+                            var input = $(this);
+                            var is_name = input.val();
+                            if (is_name) {
+                                $('#camera').addClass('animated fadeOut'); //  $('#cm2').hide()
+                                $("#input_text").css("width", "90%");
+                            }
+                            else {
+                                $("#input_text").css("width", "85%");
+                                $('#camera').removeClass('animated fadeOut').addClass('animated fadeIn');//$('#cm2').show();
+                            }
+                        });
+                    });
+        </script>
+    </body>
+</html>

@@ -1,0 +1,247 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>דף כניסה </title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link href="../MDB/css/bootstrap.min.css" rel="stylesheet" />    <!-- Bootstrap core CSS -->
+    <link href="../MDB/css/mdb.min.css" rel="stylesheet" />    <!-- Material Design Bootstrap -->
+    <!-- my style -->
+    <link href="../style/CarePetStyle.css" rel="stylesheet" />
+
+
+
+    <style>
+        #btn_main {
+        }
+
+        #btn1, #btn2 {
+            font-size: 30px;
+            border-radius: 10px;
+            text-shadow: 5px;
+        }
+    </style>
+</head>
+
+<body style="background-color:#bbdefb">
+
+
+    <div id="btn_main" class="flex-center flex-column">
+        <br />
+
+
+        <img class="img-responsive  animated rubberBand" src="../images/pic/CarePet_main.jpg" alt="CarePet_main " width="90%" height="120">
+
+        <br /><br /><br /><br />
+        <button class="btn btn-info btn-lg animated flash" type="button" id="btn1" data-toggle="modal" data-target="#modalLogin">התחבר</button>
+        <br><br>
+        <button class="btn btn-info btn-lg animated flash" type="button" id="btn2" data-toggle="modal" data-target="#modalRegister">הרשמה</button>
+        <br /><br />
+        <span id="Forgot_Password" style="text-align:center;color:blue;font-size:14px" data-toggle="modal" data-target="#Forgot_modal"> שכחתי סיסמא</span>
+    </div>
+
+    <div class="loader" style="display:none"></div>
+
+
+    <!--Modal: Login Form-->
+    <div style="top:100px" class="modal fade" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog cascading-modal" role="document">
+            <!--Content-->
+            <form id="FormLogin" action="destination.html">
+
+                <div class="modal-content">
+
+                    <!--Header-->
+                    <div class="modal-header light-blue darken-3 white-text">
+                        <h4 class="title"><i class="fa fa-user"></i> Log in</h4>
+                        <button type="button" class="close waves-effect waves-light" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <!--Body-->
+                    <div class="modal-body">
+                        <div class="md-form form-sm">
+                            <i class="fa fa-user prefix"></i>
+                            <input type="text" required name="txtName" id="txtName" class="form-control">
+                            <label for="txtName">user name</label>
+                        </div>
+
+                        <div class="md-form form-sm">
+                            <i class="fa fa-lock prefix"></i>
+                            <input type="password" required name="txtPass"  id="txtPass" class="form-control">
+                            <label for="txtPass">password</label>
+                        </div>
+
+                        <div class="text-center mt-2">
+                            <button type="submit" id="btnLogin" class="btn btn-info">Log in <i class="fa fa-sign-in ml-1"></i></button>
+                        </div>
+
+                    </div>
+
+                </div>
+                <!--/.Content-->
+                </form>
+        </div>
+    </div>
+    <!--Forgot_modal-->
+
+    <!--Modal: Register Form-->
+    <div style="top:80px" class="modal fade" id="modalRegister" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="loader" style="display:none"></div>
+
+        <div class="modal-dialog cascading-modal" role="document">
+            <!--Content-->
+
+            <form id="FormRegister" action="destination.html">
+
+                <div class="modal-content">
+                    <!--Header-->
+                    <div class="modal-header light-blue darken-3 white-text">
+                        <h4 class="title"><i class="fa fa-user-plus"></i> Register</h4>
+                        <button type="button" class="close waves-effect waves-light" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <!--Body-->
+                    <div class="modal-body">
+
+                        <div class="md-form form-sm">
+                            <i class="fa fa-user prefix"></i>
+                            <input type="text" name="StxtName"id="StxtName" class="form-control"   title="לפחות 6 תוים">
+                            <label for="StxtName">שם משתמש</label>
+                        </div>
+                        <div class="md-form form-sm">
+                            <i class="fa fa-envelope prefix"></i>
+                            <input type="text" name="SֹtxtMail" id="SֹtxtMail" class="form-control"   title="נא לרשום כתובת תקנית">
+                            <label for="SֹtxtMail">מייל</label>
+                        </div>
+                       
+                        <div class="md-form form-sm">
+                                                      
+                            <i class="fa fa-phone-square prefix"></i>
+                            <input type="tel" name="SֹtxtPhone" id="SֹtxtPhone" class="form-control"  title="לפי המבנה מספר-קידומת">
+                            <label for="SֹtxtPhone">טלפון</label>
+                        </div>
+                         
+                        <div class="md-form form-sm">
+                            <i class="fa fa-lock prefix"></i>
+                            <input type="password" id="SֹtxtPass"  name="SֹtxtPass"class="form-control"title="לפחות 6 תוים">
+                            <label for="SֹtxtPass">סיסמה</label>
+                        </div>
+
+                        <div class="md-form form-sm">
+                            <i class="fa fa-lock prefix"></i>
+                            <input type="password"  id="SֹtxtConfirm"  name="SֹtxtConfirm"class="form-control"title="חייב להיות זהה לסיסמה " >
+                            <label for="SֹtxtConfirm">אימות סיסמה</label>
+                        </div>
+
+                        <div class="text-center mt-2">
+
+                            <button type="submit" id="btnLogin1" class="btn btn-info">Sign up <i class="fa fa-sign-in ml-1"></i></button>
+                        </div>
+
+                    </div>
+
+                </div>
+                <!--/.Content-->
+                </form>
+</div>
+    </div>
+
+    <!--Modal: Forgot pass Form-->
+
+    <div style="top:90px" class="modal fade" id="Forgot_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="loader" style="display:none"></div>
+
+        <div class="modal-dialog cascading-modal" role="document">
+            <!--Content-->
+            <form id="FormSendEmail" action="destination.html">
+
+                <div class="modal-content">
+
+                    <!--Header-->
+                    <div style="background-color:sandybrown" class="modal-header  darken-3 white-text">
+                        <h4 class="title"><i class="fa fa-envelope"></i>שכחתי סיסמה</h4>
+                        <button type="button" class="close waves-effect waves-light" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <!--Body-->
+
+                    <div class="modal-body">
+                        <div class="md-form form-sm">
+                            <input type="email" name="txtEmail " required id="txtEmail" class="form-control">
+                            <label style="left:100px" for="txtEmail">הקלד את המייל שלך  כאן </label>
+                        </div>
+                        <div class="text-center mt-2">
+                            <button type="submit" id="btnSendEmail" class="btn btn-info">שלח <i class="fa fa-send ml-1"></i></button>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </form>
+            <!--/.Content-->
+        </div>
+
+    </div>
+
+    <div class="modal fade" id="ErrorLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="top:100px">
+        <div class="loader" style="display:none"></div>
+
+        <div class="modal-dialog modal-notify modal-info" role="document">
+            <!--Content-->
+            <div class="modal-content text-center">
+                <div class="modal-body">
+
+                    <i class="fa fa-close fa-4x animated rotateIn mb-4" style="color:red"></i>
+
+                    <p> שם המשתמש והסיסמה לא קימיים במערכת  בדוק את הנתונים שלך </p>
+
+
+                </div>
+                <div class=" flex-center">
+                    <button type="button" id="btnYes" data-dismiss="modal" class="btn btn-info">אישור<!--<i class="fa fa-check ml-1"></i>--></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="ErrorSignIn" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="top:100px">
+        <div class="loader" style="display:none"></div>
+
+        <div class="modal-dialog modal-notify modal-danger" role="document">
+            <!--Content-->
+            <div class="modal-content text-center">
+                <div class="modal-body">
+
+                    <i class="fa fa-bell fa-4x animated rotateIn mb-4"style="color:red"></i>
+
+                    <p>שם משתשמ  זה כבר תפוס אנא בחר שם אחר  </p>
+
+                </div>
+                <div class=" flex-center">
+                    <button type="button" id="btnYes" data-dismiss="modal" class="btn btn-info">אישור<!--<i class="fa fa-check ml-1"></i>--></button>
+                </div>
+            </div>
+        </div>
+    </div>
+            <script src="../cordova.js"></script> <!-- cordova -->
+            <script src="../MDB/js/jquery-3.2.1.min.js"></script>    <!-- JQuery -->
+            <script src="../MDB/js/popper.min.js"></script>    <!-- Bootstrap tooltips -->
+            <script src="../MDB/js/bootstrap.min.js"></script>    <!-- Bootstrap core JavaScript -->
+            <script src="../MDB/js/mdb.min.js"></script>  <!-- MDB core JavaScript -->
+            <!-- my JavaScript -->
+            <script src="../Libraries/Globals.js"></script>
+            <!-- for this page -->
+            <script src="../scripts/Sign_inPage.js"></script>
+            <script src="../scripts/LoginPage.js"></script>
+</body>
+
+</html>

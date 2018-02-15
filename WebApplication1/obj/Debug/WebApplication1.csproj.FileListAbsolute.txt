@@ -1,0 +1,469 @@
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Nir\Desktop\FullStackVSCordova\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.rsp
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.exe
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.rsp
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll.config
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.pdb
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Work\ruppin eng\הנדסאים - הנחיית פרוייקטים 2016-2017\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\66mei\Desktop\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\66mei\Desktop\global timer\myPetTest10-10\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\66mei\Desktop\tests\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest_2_3\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\66mei\Desktop\הפרויקט\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\66mei\Desktop\myPetTest_2_4\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\66mei\Desktop\myPet\myPetTest_2_4\myPetTest\myPetTest_1_1\myPetTest\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet_31_12\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\66mei\Desktop\הפרויקט\myPet_3\myPetTest\mypet\mypet\FullStackVSCordova - PUB\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\WebApplication1.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\66mei\Desktop\myApp\mypet_13_01\mypet_10_01\cor1\WebApplication1\obj\Debug\WebApplication1.pdb
